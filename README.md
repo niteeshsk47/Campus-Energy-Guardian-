@@ -121,14 +121,7 @@ Campus-Energy-Guardian/
 │
 ├── tests/
 │   └── test_guardian.py
-│
-└── screenshots/
-    ├── main_menu.png
-    ├── room_creation.png
-    ├── device_creation.png
-    ├── energy_report.png
-    └── test_results.png
-```
+
 
 ### File Descriptions
 
